@@ -15,3 +15,4 @@ github-release upload \
   --prerelease=false \
   violet-~.sql
 ```
+https://dev.mysql.com/doc/internals/en/optimizer-index-merge-join-type.html
